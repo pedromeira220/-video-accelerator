@@ -1,0 +1,19 @@
+.acelleratorButtonClass {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.92);
+    background: transparent;
+    border: none;
+    font-weight: bold;
+    position: relative;
+    top: -12px;
+}
+
+.acelleratorButtonClass:hover {
+    font-size: 23px;
+    color: rgba(255, 255, 255, 0.7)
+}
+
+.acelleratorButtonClass:active {
+    color: rgb(197, 10, 10);
+    font-weight: bold;
+}

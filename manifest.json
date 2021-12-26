@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "VideoAcellerator",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": ["*://*.youtube.com/*"],
+            "css": ["style.css"],
+            "js": ["main.js"]
+        }
+    ]
+}
