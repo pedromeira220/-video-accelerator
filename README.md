@@ -14,7 +14,7 @@ This YouTube clip show you the step-by-step:
 
 https://youtube.com/clip/UgkxoiWePvnp8vafCZ61IC5AqiA_oo-h0xUT
 
-Thanks iEatWebsites :)
+This video was not made by me, it was made by iEatWebsites, thak you  :)
 
 Now the extension is on, however there I a bug that I can’t correct: when you enter on a Youtube video for first time the button does not work, therefor, you just need to reload the page (click in F5 or CTRL + R) 
 
